@@ -2,6 +2,8 @@
 
 Description-A game in which two players will drop colored checkers into a grid and attempt to connect 4 of their checkers in a row.
 
+Video demonstration avaliable at https://www.youtube.com/watch?v=Wa47MHDNMKk
+
 # Required
 
 A web browser to run the html file.
